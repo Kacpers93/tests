@@ -49,4 +49,10 @@ console.log(multiply(3, 7));
 console.log(multiply(-3, 7));
 console.log(multiply(3, -7));
 console.log(multiply(-3, -7));
+
+
+add
+pierwsze trzy zmienne można zapisać tez tak:
+var isResultNegative = a < 0 ^ b < 0;
+ale to już wyższy poziom
 */
