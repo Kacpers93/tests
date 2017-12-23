@@ -15,7 +15,6 @@ function multiplay(a, b) {
             result += b;
         }
     }
-    
     return result;
 }
 
